@@ -1,0 +1,12 @@
+databricks-data-processing-project/
+│
+├── data/
+│   └── streaming_data.json
+│
+├── scripts/
+│   └── streaming_pipeline.py
+│
+├── notebooks/
+│   └── databricks_notebook.py
+│
+├── README.md
